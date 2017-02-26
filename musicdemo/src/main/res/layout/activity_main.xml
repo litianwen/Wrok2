@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="com.example.administrator.musicdemo.MainActivity">
+
+
+    <RadioGroup
+        android:id="@+id/rg_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/tab_rb_hot"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:tag="0"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="热门歌曲"
+            android:textColor="@color/textcolor"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/white" />
+
+        <RadioButton
+            android:id="@+id/tab_rb_type"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:tag="1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="分类歌曲"
+            android:textColor="@color/textcolor"
+            android:textSize="16sp" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:color/white" />
+
+
+        <RadioButton
+            android:id="@+id/tab_rb_local"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:tag="2"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="本地歌曲"
+            android:textColor="@color/textcolor"
+            android:textSize="16sp" />
+    </RadioGroup>
+
+
+    <FrameLayout
+        android:id="@+id/fl_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/rg_tab" />
+</RelativeLayout>

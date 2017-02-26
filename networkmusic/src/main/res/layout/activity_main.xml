@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.networkmusic.MainActivity">
+
+
+    <RadioGroup
+        android:id="@+id/main_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_hot"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="热门"
+            android:textColor="@color/tab_text_seletor" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="@android:color/white" />
+
+        <RadioButton
+            android:id="@+id/rb_sort"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="排行"
+            android:textColor="@color/tab_text_seletor" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="@android:color/white" />
+
+        <RadioButton
+            android:id="@+id/rb_local"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:button="@null"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="本地"
+            android:textColor="@color/tab_text_seletor" />
+    </RadioGroup>
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/main_rg"></FrameLayout>
+</RelativeLayout>

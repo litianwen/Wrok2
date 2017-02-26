@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--//帧动画时间来回共2000毫秒-->
+    <!--//所以duration动画持续时间为2000，少20效果好点-->
+    <translate
+    android:duration="1980"
+    android:fromXDelta="0"
+    android:toXDelta="-900"
+    android:repeatCount="infinite"
+    android:repeatMode="reverse"
+    />
+</set>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2048demo/2048demo.iml" filepath="$PROJECT_DIR$/2048demo/2048demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrok2.iml" filepath="$PROJECT_DIR$/Wrok2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diymode/diymode.iml" filepath="$PROJECT_DIR$/diymode/diymode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huadongdemo/huadongdemo.iml" filepath="$PROJECT_DIR$/huadongdemo/huadongdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson14_contentprovider/lesson14_contentprovider.iml" filepath="$PROJECT_DIR$/lesson14_contentprovider/lesson14_contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson14_myprovider/lesson14_myprovider.iml" filepath="$PROJECT_DIR$/lesson14_myprovider/lesson14_myprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson14_test/lesson14_test.iml" filepath="$PROJECT_DIR$/lesson14_test/lesson14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16_asynctask/lesson16_asynctask.iml" filepath="$PROJECT_DIR$/lesson16_asynctask/lesson16_asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16_delaysearch/lesson16_delaysearch.iml" filepath="$PROJECT_DIR$/lesson16_delaysearch/lesson16_delaysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16_handler/lesson16_handler.iml" filepath="$PROJECT_DIR$/lesson16_handler/lesson16_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16_handlerdemo/lesson16_handlerdemo.iml" filepath="$PROJECT_DIR$/lesson16_handlerdemo/lesson16_handlerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson16_handlermessage/lesson16_handlermessage.iml" filepath="$PROJECT_DIR$/lesson16_handlermessage/lesson16_handlermessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson17_broadcastreceiver1/lesson17_broadcastreceiver1.iml" filepath="$PROJECT_DIR$/lesson17_broadcastreceiver1/lesson17_broadcastreceiver1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson17_broadcastreceiver2/lesson17_broadcastreceiver2.iml" filepath="$PROJECT_DIR$/lesson17_broadcastreceiver2/lesson17_broadcastreceiver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18_parcelable/lesson18_parcelable.iml" filepath="$PROJECT_DIR$/lesson18_parcelable/lesson18_parcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18_service1/lesson18_service1.iml" filepath="$PROJECT_DIR$/lesson18_service1/lesson18_service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18_service2/lesson18_service2.iml" filepath="$PROJECT_DIR$/lesson18_service2/lesson18_service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18_service3_aidl/lesson18_service3_aidl.iml" filepath="$PROJECT_DIR$/lesson18_service3_aidl/lesson18_service3_aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson18_service3_aidl_test/lesson18_service3_aidl_test.iml" filepath="$PROJECT_DIR$/lesson18_service3_aidl_test/lesson18_service3_aidl_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_javaconnection/lesson19_javaconnection.iml" filepath="$PROJECT_DIR$/lesson19_javaconnection/lesson19_javaconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson19_mmall/lesson19_mmall.iml" filepath="$PROJECT_DIR$/lesson19_mmall/lesson19_mmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicdemo/musicdemo.iml" filepath="$PROJECT_DIR$/musicdemo/musicdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylib/mylib.iml" filepath="$PROJECT_DIR$/mylib/mylib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myview/myview.iml" filepath="$PROJECT_DIR$/myview/myview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networkmusic/networkmusic.iml" filepath="$PROJECT_DIR$/networkmusic/networkmusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" filepath="$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switcherview/switcherview.iml" filepath="$PROJECT_DIR$/switcherview/switcherview.iml" />
+    </modules>
+  </component>
+</project>

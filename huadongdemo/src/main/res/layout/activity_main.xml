@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    tools:context="com.example.administrator.huadongdemo.MainActivity">
+<android.support.v4.widget.NestedScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="18sp"/>
+</android.support.v4.widget.NestedScrollView>
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+        android:background="@color/colorAccent"
+        app:layout_behavior="@string/bye_burger_title_behavior"
+    android:orientation="horizontal">
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/colorPrimary"
+        android:layout_gravity="bottom"
+        app:layout_behavior="@string/bye_burger_bottom_behavior"
+        android:orientation="horizontal">
+</LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

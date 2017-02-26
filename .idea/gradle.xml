@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/2048demo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/diymode" />
+            <option value="$PROJECT_DIR$/huadongdemo" />
+            <option value="$PROJECT_DIR$/lesson14_contentprovider" />
+            <option value="$PROJECT_DIR$/lesson14_myprovider" />
+            <option value="$PROJECT_DIR$/lesson14_test" />
+            <option value="$PROJECT_DIR$/lesson16_asynctask" />
+            <option value="$PROJECT_DIR$/lesson16_delaysearch" />
+            <option value="$PROJECT_DIR$/lesson16_handler" />
+            <option value="$PROJECT_DIR$/lesson16_handlerdemo" />
+            <option value="$PROJECT_DIR$/lesson16_handlermessage" />
+            <option value="$PROJECT_DIR$/lesson17_broadcastreceiver1" />
+            <option value="$PROJECT_DIR$/lesson17_broadcastreceiver2" />
+            <option value="$PROJECT_DIR$/lesson18_parcelable" />
+            <option value="$PROJECT_DIR$/lesson18_service1" />
+            <option value="$PROJECT_DIR$/lesson18_service2" />
+            <option value="$PROJECT_DIR$/lesson18_service3_aidl" />
+            <option value="$PROJECT_DIR$/lesson18_service3_aidl_test" />
+            <option value="$PROJECT_DIR$/lesson19_javaconnection" />
+            <option value="$PROJECT_DIR$/lesson19_mmall" />
+            <option value="$PROJECT_DIR$/musicdemo" />
+            <option value="$PROJECT_DIR$/mylib" />
+            <option value="$PROJECT_DIR$/myview" />
+            <option value="$PROJECT_DIR$/networkmusic" />
+            <option value="$PROJECT_DIR$/pulltorefresh" />
+            <option value="$PROJECT_DIR$/switcherview" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
